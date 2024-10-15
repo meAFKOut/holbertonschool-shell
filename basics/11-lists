@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -la . | grep -v '^total'
-ls -la .. | grep -v '^total'
-ls -la /boot | grep -v '^total'
+ls -la
