@@ -1,1 +1,7 @@
-This is readme about ny ujhsdhgdsjbdjsnbjkndjb 
+fhdgvnkjnbjkn
+hshgkd
+dgjkdhgjd
+jgjksbn
+dgidshb
+dsbdnb
+
