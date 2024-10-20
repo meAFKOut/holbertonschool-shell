@@ -1,2 +1,6 @@
+bash
+Copy code
 #!/bin/bash
-tail -n 10 /etc/passwd
+# Display the first 10 lines of /etc/passwd
+
+head -n 10 /etc/passwd
